@@ -6,11 +6,15 @@
  * @version 9.10.2018
  */
 import java.lang.Math;
-public class nocadk
-{
+public class BlackJack{
+    
+    boolean safteyBarrier;
     
     //game runner
-    public static void BlackJack(String[] args){
+    public static void Hand(String[] args){
+        /*Two cards initially
+        *
+        */
         
     }
     
