@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Hand
+comment1.params=
+comment1.target=Hand()
+comment2.params=
+comment2.target=int\ hit()
+comment3.params=
+comment3.target=int\ getTotal()
+comment4.params=
+comment4.target=int\ getCardOne()
+comment5.params=
+comment5.target=int\ getCardTwo()
+numComments=6
